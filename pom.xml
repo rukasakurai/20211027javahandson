@@ -15,7 +15,7 @@
   <name>demo</name>  
   <description>Demo project for Spring Boot</description>  
   <properties> 
-    <java.version>1.8</java.version> 
+    <java.version>11</java.version> 
   </properties>  
   <dependencies> 
     <dependency> 
@@ -67,7 +67,7 @@
           <region>eastus</region>
           <runtime>
             <os>Linux</os>
-            <javaVersion>Java 8</javaVersion>
+            <javaVersion>Java 11</javaVersion>
             <webContainer>Java SE</webContainer>
           </runtime>
           <deployment>
